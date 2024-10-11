@@ -16,3 +16,6 @@ Some examples:
   keepOrder([1, 1, 2, 2, 2], 2) //=> 2
                   ^(index 2)
 */
+
+
+// Solution
