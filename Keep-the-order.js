@@ -26,3 +26,6 @@ function keepOrder(ary, val) {
 }
 
 // or
+
+const keepOrder = (ary, val) =>
+  ary.filter(v => v < val).length;
